@@ -42,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/w4ter-fox/LeetCode/tree/main/0112-path-sum/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3360-stone-removal-game](https://github.com/w4ter-fox/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3360-stone-removal-game](https://github.com/w4ter-fox/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 <!---LeetCode Topics End-->
