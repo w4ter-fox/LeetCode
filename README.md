@@ -6,6 +6,7 @@ Daily practice toward SWE interviews — auto-synced with LeetHub
 
 <img src="https://img.shields.io/badge/solved-13-185FA5?style=flat-square" alt="solved">
 <img src="https://img.shields.io/badge/Python3-13-3B6D11?style=flat-square" alt="Python3">
+<img src="https://img.shields.io/badge/TypeScript-1-3B6D11?style=flat-square" alt="TypeScript">
 
 </div>
 
@@ -43,7 +44,7 @@ Daily practice toward SWE interviews — auto-synced with LeetHub
 | 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Python3](https://github.com/w4ter-fox/LeetCode/tree/main/Python3/Medium/0102-binary-tree-level-order-traversal/) |
 | 0114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) | [Python3](https://github.com/w4ter-fox/LeetCode/tree/main/Python3/Medium/0114-flatten-binary-tree-to-linked-list/) |
 | 0199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Python3](https://github.com/w4ter-fox/LeetCode/tree/main/Python3/Medium/0199-binary-tree-right-side-view/) |
-| 0236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Python3](https://github.com/w4ter-fox/LeetCode/tree/main/Python3/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) |
+| 0236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Python3](https://github.com/w4ter-fox/LeetCode/tree/main/Python3/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) · [TypeScript](https://github.com/w4ter-fox/LeetCode/tree/main/TypeScript/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) |
 | 3946 | [Maximum Number of Items From Sale I](https://leetcode.com/problems/maximum-number-of-items-from-sale-i) | [Python3](https://github.com/w4ter-fox/LeetCode/tree/main/Python3/Medium/3946-maximum-number-of-items-from-sale-i/) |
 
 </details>
