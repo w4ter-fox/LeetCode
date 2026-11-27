@@ -67,6 +67,7 @@ _No problems yet._
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/w4ter-fox/LeetCode/tree/main/Python3/Easy/0001-two-sum/) | Easy |
+| [0088-merge-sorted-array](https://github.com/w4ter-fox/LeetCode/tree/main/TypeScript/Easy/0088-merge-sorted-array/) | Easy |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/w4ter-fox/LeetCode/tree/main/Python3/Medium/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -159,6 +160,14 @@ _No problems yet._
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/w4ter-fox/LeetCode/tree/main/Python3/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/w4ter-fox/LeetCode/tree/main/TypeScript/Easy/0088-merge-sorted-array/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/w4ter-fox/LeetCode/tree/main/TypeScript/Easy/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
 
 </details>
