@@ -2,7 +2,7 @@
 
 # LeetCode solutions
 
-
+Daily practice toward SWE interviews — auto-synced with LeetHub
 
 <img src="https://img.shields.io/badge/solved-13-185FA5?style=flat-square" alt="solved">
 <img src="https://img.shields.io/badge/Python3-13-3B6D11?style=flat-square" alt="Python3">
