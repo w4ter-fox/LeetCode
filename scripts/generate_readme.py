@@ -20,7 +20,7 @@ REPO_URL = "https://github.com/w4ter-fox/LeetCode"
 BRANCH = "main"
 LEETCODE_USERNAME = ""  # 例: "w4ter-fox"。空ならプロフィールバッジを出さない
 TITLE = "LeetCode solutions"
-TAGLINE = "Daily practice toward SWE interviews — auto-synced with LeetHub"
+TAGLINE = ""
 # ================
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -77,7 +77,8 @@ def render(problems: dict[str, dict], topics_block: str | None) -> str:
     out: list[str] = []
     out.append('<div align="center">\n')
     out.append(f"# {TITLE}\n")
-    out.append(f"{TAGLINE}\n")
+    if TAGLINE:
+        out.append(f"{TAGLINE}\n")
     badges = [f'<img src="{badge("solved", str(len(problems)), "185FA5")}" alt="solved">']
     for lang, n in sorted(lang_count.items(), key=lambda x: (-x[1], x[0])):
         badges.append(f'<img src="{badge(lang, str(n), "3B6D11")}" alt="{lang}">')
