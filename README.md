@@ -4,16 +4,16 @@
 
 Daily practice toward SWE interviews — auto-synced with LeetHub
 
-<img src="https://img.shields.io/badge/solved-13-185FA5?style=flat-square" alt="solved">
+<img src="https://img.shields.io/badge/solved-14-185FA5?style=flat-square" alt="solved">
 <img src="https://img.shields.io/badge/Python3-13-3B6D11?style=flat-square" alt="Python3">
-<img src="https://img.shields.io/badge/TypeScript-1-3B6D11?style=flat-square" alt="TypeScript">
+<img src="https://img.shields.io/badge/TypeScript-2-3B6D11?style=flat-square" alt="TypeScript">
 
 </div>
 
 ## Progress
 
 <p align="center">
-<img src="https://img.shields.io/badge/Easy-7-3B6D11?style=for-the-badge" alt="Easy">
+<img src="https://img.shields.io/badge/Easy-8-3B6D11?style=for-the-badge" alt="Easy">
 <img src="https://img.shields.io/badge/Medium-6-BA7517?style=for-the-badge" alt="Medium">
 <img src="https://img.shields.io/badge/Hard-0-A32D2D?style=for-the-badge" alt="Hard">
 </p>
@@ -21,12 +21,13 @@ Daily practice toward SWE interviews — auto-synced with LeetHub
 ## Problems by difficulty
 
 <details>
-<summary><b>Easy</b> (7)</summary>
+<summary><b>Easy</b> (8)</summary>
 
 | # | Problem | Solution |
 | --- | --- | --- |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Python3](https://github.com/w4ter-fox/LeetCode/tree/main/Python3/Easy/0001-two-sum/) |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/?envType=study-plan-v2&envId=top-interview-150) | [Python3](https://github.com/w4ter-fox/LeetCode/tree/main/Python3/Easy/0058-length-of-last-word/) |
+| 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [TypeScript](https://github.com/w4ter-fox/LeetCode/tree/main/TypeScript/Easy/0088-merge-sorted-array/) |
 | 0101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [Python3](https://github.com/w4ter-fox/LeetCode/tree/main/Python3/Easy/0101-symmetric-tree/) |
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Python3](https://github.com/w4ter-fox/LeetCode/tree/main/Python3/Easy/0104-maximum-depth-of-binary-tree/) |
 | 0112 | [Path Sum](https://leetcode.com/problems/path-sum) | [Python3](https://github.com/w4ter-fox/LeetCode/tree/main/Python3/Easy/0112-path-sum/) |
