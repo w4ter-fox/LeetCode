@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/w4ter-fox/LeetCode/tree/master/0001-two-sum) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/w4ter-fox/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3360-stone-removal-game](https://github.com/w4ter-fox/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/w4ter-fox/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/w4ter-fox/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 <!---LeetCode Topics End-->
