@@ -2,8 +2,8 @@
 
 # LeetCode solutions
 
-<img src="https://img.shields.io/badge/solved-14-185FA5?style=flat-square" alt="solved">
-<img src="https://img.shields.io/badge/Python3-13-3B6D11?style=flat-square" alt="Python3">
+<img src="https://img.shields.io/badge/solved-15-185FA5?style=flat-square" alt="solved">
+<img src="https://img.shields.io/badge/Python3-14-3B6D11?style=flat-square" alt="Python3">
 <img src="https://img.shields.io/badge/TypeScript-2-3B6D11?style=flat-square" alt="TypeScript">
 
 </div>
@@ -12,7 +12,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Easy-8-3B6D11?style=for-the-badge" alt="Easy">
-<img src="https://img.shields.io/badge/Medium-6-BA7517?style=for-the-badge" alt="Medium">
+<img src="https://img.shields.io/badge/Medium-7-BA7517?style=for-the-badge" alt="Medium">
 <img src="https://img.shields.io/badge/Hard-0-A32D2D?style=for-the-badge" alt="Hard">
 </p>
 
@@ -35,7 +35,7 @@
 </details>
 
 <details>
-<summary><b>Medium</b> (6)</summary>
+<summary><b>Medium</b> (7)</summary>
 
 | # | Problem | Solution |
 | --- | --- | --- |
@@ -45,6 +45,7 @@
 | 0199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Python3](https://github.com/w4ter-fox/LeetCode/tree/main/Python3/Medium/0199-binary-tree-right-side-view/) |
 | 0236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Python3](https://github.com/w4ter-fox/LeetCode/tree/main/Python3/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) · [TypeScript](https://github.com/w4ter-fox/LeetCode/tree/main/TypeScript/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) |
 | 3946 | [Maximum Number of Items From Sale I](https://leetcode.com/problems/maximum-number-of-items-from-sale-i) | [Python3](https://github.com/w4ter-fox/LeetCode/tree/main/Python3/Medium/3946-maximum-number-of-items-from-sale-i/) |
+| 3947 | [Maximum Number of Items From Sale II](https://leetcode.com/problems/maximum-number-of-items-from-sale-ii) | [Python3](https://github.com/w4ter-fox/LeetCode/tree/main/Python3/Medium/3947-maximum-number-of-items-from-sale-ii/) |
 
 </details>
 
