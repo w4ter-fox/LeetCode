@@ -68,6 +68,7 @@ _No problems yet._
 | [0001-two-sum](https://github.com/w4ter-fox/LeetCode/tree/main/Python3/Easy/0001-two-sum/) | Easy |
 | [0088-merge-sorted-array](https://github.com/w4ter-fox/LeetCode/tree/main/TypeScript/Easy/0088-merge-sorted-array/) | Easy |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/w4ter-fox/LeetCode/tree/main/Python3/Medium/3946-maximum-number-of-items-from-sale-i/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/w4ter-fox/LeetCode/tree/main/Python3/Medium/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +144,7 @@ _No problems yet._
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/w4ter-fox/LeetCode/tree/main/Python3/Medium/3946-maximum-number-of-items-from-sale-i/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/w4ter-fox/LeetCode/tree/main/Python3/Medium/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,6 +169,11 @@ _No problems yet._
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/w4ter-fox/LeetCode/tree/main/TypeScript/Easy/0088-merge-sorted-array/) | Easy |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/w4ter-fox/LeetCode/tree/main/Python3/Medium/3947-maximum-number-of-items-from-sale-ii/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/w4ter-fox/LeetCode/tree/main/Python3/Medium/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 <!---LeetCode Topics End-->
 
 </details>
